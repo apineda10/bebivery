@@ -1,0 +1,23 @@
+.container-newslatter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #0d6efd
+}
+.newslatter{
+    width: 50%;
+}
+.newslatter-tittle{
+    font-size:larger;
+    font-weight:800;
+    padding: 10px;
+    color: white;
+}
+.newslatter-input{
+    border: 5px solid black;
+    color: white;
+}
+.newslatter-label{
+    color: white;
+}

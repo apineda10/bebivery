@@ -1,0 +1,47 @@
+
+.navbar a{
+    color:white;
+}
+
+.navbar-items{
+    margin-left: 70%;
+}
+.navbar-logo{
+    margin-left: 10px;
+}
+
+.btn{
+    position:absolute; 
+    z-index: 2;
+    font-size: large;
+    color:white;
+}
+.btnCount{
+    display:absolute; 
+    height:15px; 
+    width:15px;
+    background-color: red;
+    border-radius:50px;  
+    position:absolute;
+    color:white; 
+    z-index: 3; 
+    font-size: x-small; 
+    margin-left: 25px;
+    margin-top: 20px;
+    
+}
+
+.navBar_items{
+    color:white ;
+    display: flex;
+    justify-content:flex-start;
+    align-items:flex-start;   
+    flex-direction: row;
+    margin: 5px;
+    list-style:none;
+    text-align:left;
+}
+
+.navBar_items li{
+    margin: 10px;
+}
